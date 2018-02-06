@@ -1,4 +1,4 @@
-/** https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial/Getting_started_with_WebGL **/
+/** https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial/Adding_2D_content_to_a_WebGL_context **/
 
 var gl; // Global var for GL context
 
